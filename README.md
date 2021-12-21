@@ -1,6 +1,8 @@
 # Naive-Bayes Algorithm
-What is naive Bayes algorithm used for?
-Image result for naive bayes algorithm in machine learning
-Naive Bayes uses a similar method to predict the probability of different class based on various attributes. This algorithm is mostly used in text classification and with problems having multiple classes.
+Naïve Bayes algorithm is a supervised learning algorithm, which is based on Bayes theorem and used for solving classification problems.
+It is mainly used in text classification that includes a high-dimensional training dataset.
+Naïve Bayes Classifier is one of the simple and most effective Classification algorithms which helps in building the fast machine learning models that can make quick predictions.
+It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.
+Some popular examples of Naïve Bayes Algorithm are spam filtration, Sentimental analysis, and classifying articles.
 # Three Type of Naive Bayes:
 1) MultinomialNB 2) BernoulliNB 3) GaussianNB
